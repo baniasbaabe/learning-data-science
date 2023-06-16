@@ -5,7 +5,7 @@
 - [SQL](#sql)
 - [Python](#python)
 - [Deep Learning](#deep-learning)
-- [Business Intelligence](#business-intelligence)
+- [Dashboarding](#dashboarding)
 - [Data Engineering](#data-engineering)
 
 ## SQL
@@ -25,6 +25,17 @@
 | [Clean Code in Python](https://www.oreilly.com/library/view/clean-code-in/9781800560215/)                                                                                                                                             | Paid  | Advanced     | 2021         |
 | [Robust Python](https://www.oreilly.com/library/view/robust-python/9781098100650/)                                                                                                                                                    | Paid  | Intermediate | 2021         |
 
+## Statistics & Maths
+
+| Resource Name                                                                                                            | Price | Difficulty | Release Year |
+| ------------------------------------------------------------------------------------------------------------------------ | ----- | ---------- | ------------ |
+| [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/) | Paid  | Beginner   | 2020         |
+| [Statistics 110: Probability](https://mlbookcamp.com/)                                                                   | Free  | Beginner   | 2013         |
+| [Think Stats](https://greenteapress.com/thinkstats/)                                                                     | Paid  | Beginner   | 2011         |
+| [Mathematics for Machine Learning](https://mml-book.github.io/)                                                          | Free  | Beginner   | 2020         |
+| [MIT: Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)                                          | Free  | Beginner   | 2005         |
+| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)                                        | Free  | Beginner   | ?            |
+
 ## Machine Learning
 
 | Resource Name                                                                                                                                                      | Price | Difficulty   | Release Year |
@@ -38,13 +49,13 @@
 
 ## Deep Learning
 
-| Resource Name                    | Price | Difficulty   | Release Year |
-| -------------------------------- | ----- | ------------ | ------------ |
-| [Resource 1](link-to-resource-1) | Free  | Beginner     | 2020         |
-| [Resource 2](link-to-resource-2) | Paid  | Intermediate | 2019         |
-| [Resource 3](link-to-resource-3) | Free  | Advanced     | 2021         |
+| Resource Name                                                                         | Price | Difficulty   | Release Year |
+| ------------------------------------------------------------------------------------- | ----- | ------------ | ------------ |
+| [Deep Learning Specialization](https://de.coursera.org/specializations/deep-learning) | Free  | Intermediate | ?            |
+| [Dive into Deep Learning](https://d2l.ai/)                                            | Free  | Intermediate | 2023         |
+| [Resource 3](link-to-resource-3)                                                      | Free  | Advanced     | 2021         |
 
-## Business Intelligence
+## Dashboarding
 
 | Resource Name                                                                                                    | Price | Difficulty | Release Year |
 | ---------------------------------------------------------------------------------------------------------------- | ----- | ---------- | ------------ |
@@ -63,12 +74,12 @@
 | ------------------------------------------------------ | ----- | ------------ | ------------ |
 | [Fundamentals of Data Engineering](link-to-resource-7) | Free  | Beginner     | 2021         |
 | [Data Engineering Zoomcamp](link-to-resource-8)        | Paid  | Intermediate | 2017         |
-| [Resource 9](link-to-resource-9)                       | Free  | Advanced     | 2020         |
 
 ## Miscellanous
 
 | Resource Name                                                                                | Price | Difficulty   | Release Year |
 | -------------------------------------------------------------------------------------------- | ----- | ------------ | ------------ |
+| [The Kaggle Book](https://www.oreilly.com/library/view/the-kaggle-book/9781801817479/)       | Paid  | Intermediate | 2022         |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                  | Free  | Beginner     | 2021         |
 | [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE)                    | Paid  | Intermediate | 2017         |
 | [The Missing README](https://www.oreilly.com/library/view/the-missing-readme/9781098129064/) | Free  | Advanced     | 2020         |
