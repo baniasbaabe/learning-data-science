@@ -49,17 +49,21 @@
 
 ## Deep Learning
 
-| Resource Name                                                                         | Price | Difficulty   | Release Year |
-| ------------------------------------------------------------------------------------- | ----- | ------------ | ------------ |
-| [Deep Learning Specialization](https://de.coursera.org/specializations/deep-learning) | Free  | Intermediate | ?            |
-| [Dive into Deep Learning](https://d2l.ai/)                                            | Free  | Intermediate | 2023         |
-| [Resource 3](link-to-resource-3)                                                      | Free  | Advanced     | 2021         |
+| Resource Name                                                                                                                                                      | Price | Difficulty   | Release Year |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- | ------------ | ------------ |
+| [Deep Learning Specialization](https://de.coursera.org/specializations/deep-learning)                                                                              | Free  | Intermediate | ?            |
+| [Dive into Deep Learning](https://d2l.ai/)                                                                                                                         | Free  | Intermediate | 2023         |
+| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) (Only DL Part) | Paid  | Beginner     | 2022         |
+| [Machine Learning with PyTorch and Scikit-Learn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) (Only DL Part)     | Paid  | Beginner     | 2022         |
 
-## Dashboarding
+## MLOps
 
-| Resource Name                                                                                                    | Price | Difficulty | Release Year |
-| ---------------------------------------------------------------------------------------------------------------- | ----- | ---------- | ------------ |
-| [Data Analytics Essentials with Power BI](https://www.udemy.com/course/data-analytics-essentials-with-power-bi/) | Paid  | Beginner   | 2022         |
+| Resource Name                                                                                                                                                                                                                                                                                                                                               | Price | Difficulty   | Release Year |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------ | ------------ |
+| [Made with ML](https://madewithml.com/)                                                                                                                                                                                                                                                                                                                     | Free  | Beginner     | 2023         |
+| [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)                                                                                                                                                                                                                                                                                  | Free  | Intermediate | 2022         |
+| [MLOpsZoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)                                                                                                                                                                                                                                                                                            | Free  | Intermediate | 2023         |
+| [Designing Machine Learning Systems](https://www.amazon.de/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=asc_df_1098115783/?tag=googshopde-21&linkCode=df0&hvadid=447499915840&hvpos=&hvnetw=g&hvrand=10595215675865602718&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9068213&hvtargid=pla-943743647161&psc=1&th=1&psc=1) | Paid  | Intermediate | 2022         |
 
 ## Data Visualization
 
@@ -67,6 +71,12 @@
 | ----------------------------------------------------------------------------------------- | ----- | ---------- | ------------ |
 | [Storytelling with Data](https://www.storytellingwithdata.com/books)                      | Paid  | Beginner   | 2015         |
 | [Better Data Visualizations](https://www.amazon.de/-/en/Jonathan-Schwabish/dp/0231193114) | Paid  | Beginner   | 2021         |
+
+## Dashboarding
+
+| Resource Name                                                                                                    | Price | Difficulty | Release Year |
+| ---------------------------------------------------------------------------------------------------------------- | ----- | ---------- | ------------ |
+| [Data Analytics Essentials with Power BI](https://www.udemy.com/course/data-analytics-essentials-with-power-bi/) | Paid  | Beginner   | 2022         |
 
 ## Data Engineering
 
@@ -82,4 +92,5 @@
 | [The Kaggle Book](https://www.oreilly.com/library/view/the-kaggle-book/9781801817479/)       | Paid  | Intermediate | 2022         |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                  | Free  | Beginner     | 2021         |
 | [Git Tutorial for Beginners](https://www.youtube.com/watch?v=8JJ101D3knE)                    | Paid  | Intermediate | 2017         |
+| [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/)         | Paid  | Advanced     | 2023         |
 | [The Missing README](https://www.oreilly.com/library/view/the-missing-readme/9781098129064/) | Free  | Advanced     | 2020         |
