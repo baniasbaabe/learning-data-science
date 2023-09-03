@@ -1,5 +1,24 @@
 # Learning Data Science
 
+Whether you're just starting your journey into the world of data science or looking to expand your knowledge and skills, this repository is designed to be your one-stop resource for finding the best learning materials. We've curated a comprehensive list of resources covering various aspects of data science, from SQL and Python to deep learning and data visualization.
+
+Explore the table of contents below to find resources tailored to your interests and skill level:
+
+## Table of Contents
+
+- [SQL](#sql)
+- [Python](#python)
+- [Statistics & Maths](#statistics--maths)
+- [Machine Learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [MLOps](#mlops)
+- [Data Visualization](#data-visualization)
+- [Dashboarding](#dashboarding)
+- [Data Engineering](#data-engineering)
+- [Miscellaneous](#miscellaneous)
+
+Feel free to dive into any section that piques your interest, and don't hesitate to explore resources across different categories to build a well-rounded foundation in data science. Happy learning!
+
 ## Table of Contents
 
 - [SQL](#sql)
