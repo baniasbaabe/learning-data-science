@@ -84,7 +84,6 @@ This list contains all the resources I used (or I am planning to use) for my Dat
 | [Made with ML](https://madewithml.com/)                                                                      | Free | Beginner     | 2023         |
 | [Full Stack Deep Learning](https://fullstackdeeplearning.com/course/2022/)                                   | Free | Intermediate | 2022         |
 | [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)                                            | Free | Intermediate | 2023         |
-| [Practical Guide to Applied Conformal Prediction in Python](https://amzn.to/41N0pKA)                         | Paid | Advanced     | 2023         |
 | [Designing Machine Learning Systems](https://amzn.to/48p2oY3)                                                | Paid | Intermediate | 2022         |
 | [Machine Learning Design Patterns](https://amzn.to/48ni0eR)                                                  | Paid | Intermediate | 2020         |
 | [Machine Learning Engineering with Python](https://amzn.to/3S8MECM)                                          | Paid | Intermediate | 2023         |
