@@ -128,5 +128,3 @@ This list contains all the resources I used (or I am planning to use) for my Dat
 | [Causal Inference and Discovery in Python](https://amzn.to/48lrQO8)                  | Paid | Advanced     | 2023         |
 
 ---
-
-Note: Amazon links are affiliate links. This means that, at no additional cost to you, I may earn a commission if you click through and make a purchase.
