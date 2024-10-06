@@ -56,7 +56,7 @@ This list contains all the resources I used (or I am planning to use) for my Dat
 | [Mathematics for Machine Learning](https://mml-book.github.io/)                                                                     | Free | Beginner   | 2020         |
 | [MIT: Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)                                                     | Free | Beginner   | 2005         |
 | [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)                                                   | Free | Beginner   | ?            |
-| [Building Statistical Models in Python (Just Statistics Part)](https://www.khanacademy.org/math/multivariable-calculus)             | Paid | Beginner   | 2023         |
+| [Building Statistical Models in Python (Just Statistics Part)]([https://www.khanacademy.org/math/multivariable-calculus](https://www.packtpub.com/en-fr/product/building-statistical-models-in-python-9781804614280?srsltid=AfmBOopsxKlGuoGJi53Mh_pojpvp9w0xaCTLOj8gVRu_iILUUL3dF_M1))             | Paid | Beginner   | 2023         |
 
 ## Machine Learning
 
